@@ -1,0 +1,360 @@
+2022-03-26 15:23:23 | [INFO]    | Discordia 2.9.2
+2022-03-26 15:23:23 | [INFO]    | Connecting to Discord...
+2022-03-26 15:23:24 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-03-26 15:23:24 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-03-26 15:25:09 | [INFO]    | Discordia 2.9.2
+2022-03-26 15:25:09 | [INFO]    | Connecting to Discord...
+2022-03-26 15:25:09 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 15:25:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 15:25:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 15:25:09 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 15:25:10 | [INFO]    | Shard 0 : Received READY
+2022-03-26 15:25:20 | [ERROR]   | 403 - Forbidden : POST https://discord.com/api/v7/channels/957232492220391465/messages
+2022-03-26 15:54:12 | [INFO]    | Discordia 2.9.2
+2022-03-26 15:54:12 | [INFO]    | Connecting to Discord...
+2022-03-26 15:54:12 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 15:54:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 15:54:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 15:54:12 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 15:54:13 | [INFO]    | Shard 0 : Received READY
+2022-03-26 15:55:31 | [INFO]    | Discordia 2.9.2
+2022-03-26 15:55:31 | [INFO]    | Connecting to Discord...
+2022-03-26 15:55:32 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 15:55:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 15:55:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 15:55:32 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 15:55:32 | [INFO]    | Shard 0 : Received READY
+2022-03-26 15:56:06 | [INFO]    | Discordia 2.9.2
+2022-03-26 15:56:06 | [INFO]    | Connecting to Discord...
+2022-03-26 15:56:06 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 15:56:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 15:56:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 15:56:06 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 15:56:07 | [INFO]    | Shard 0 : Received READY
+2022-03-26 15:58:46 | [INFO]    | Discordia 2.9.2
+2022-03-26 15:58:46 | [INFO]    | Connecting to Discord...
+2022-03-26 15:58:46 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 15:58:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 15:58:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 15:58:47 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 15:58:47 | [INFO]    | Shard 0 : Received READY
+2022-03-26 16:03:29 | [INFO]    | Discordia 2.9.2
+2022-03-26 16:03:29 | [INFO]    | Connecting to Discord...
+2022-03-26 16:03:29 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 16:03:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 16:03:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 16:03:30 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 16:03:30 | [INFO]    | Shard 0 : Received READY
+2022-03-26 16:04:09 | [INFO]    | Discordia 2.9.2
+2022-03-26 16:04:09 | [INFO]    | Connecting to Discord...
+2022-03-26 16:04:09 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 16:04:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 16:04:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 16:04:09 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 16:04:09 | [INFO]    | Shard 0 : Received READY
+2022-03-26 16:04:36 | [INFO]    | Discordia 2.9.2
+2022-03-26 16:04:36 | [INFO]    | Connecting to Discord...
+2022-03-26 16:04:36 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 16:04:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 16:04:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 16:04:37 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 16:04:37 | [INFO]    | Shard 0 : Received READY
+2022-03-26 16:05:37 | [INFO]    | Discordia 2.9.2
+2022-03-26 16:05:37 | [INFO]    | Connecting to Discord...
+2022-03-26 16:05:37 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 16:05:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 16:05:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 16:05:37 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 16:05:37 | [INFO]    | Shard 0 : Received READY
+2022-03-26 21:11:18 | [INFO]    | Discordia 2.9.2
+2022-03-26 21:11:18 | [INFO]    | Connecting to Discord...
+2022-03-26 21:11:18 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 21:11:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 21:11:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 21:11:18 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 21:11:19 | [INFO]    | Shard 0 : Received READY
+2022-03-26 21:13:00 | [INFO]    | Discordia 2.9.2
+2022-03-26 21:13:00 | [INFO]    | Connecting to Discord...
+2022-03-26 21:13:00 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 21:13:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 21:13:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 21:13:00 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 21:13:01 | [INFO]    | Shard 0 : Received READY
+2022-03-26 21:15:29 | [INFO]    | Discordia 2.9.2
+2022-03-26 21:15:29 | [INFO]    | Connecting to Discord...
+2022-03-26 21:15:30 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 21:15:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 21:15:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 21:15:30 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 21:15:30 | [INFO]    | Shard 0 : Received READY
+2022-03-26 21:16:27 | [INFO]    | Discordia 2.9.2
+2022-03-26 21:16:27 | [INFO]    | Connecting to Discord...
+2022-03-26 21:16:27 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 21:16:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 21:16:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 21:16:27 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 21:16:27 | [INFO]    | Shard 0 : Received READY
+2022-03-26 21:18:35 | [INFO]    | Discordia 2.9.2
+2022-03-26 21:18:35 | [INFO]    | Connecting to Discord...
+2022-03-26 21:18:36 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 21:18:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 21:18:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 21:18:36 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 21:18:36 | [INFO]    | Shard 0 : Received READY
+2022-03-26 21:24:55 | [INFO]    | Discordia 2.9.2
+2022-03-26 21:24:55 | [INFO]    | Connecting to Discord...
+2022-03-26 21:24:55 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 21:24:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 21:24:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 21:24:55 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 21:24:56 | [INFO]    | Shard 0 : Received READY
+2022-03-26 21:25:53 | [INFO]    | Discordia 2.9.2
+2022-03-26 21:25:53 | [INFO]    | Connecting to Discord...
+2022-03-26 21:25:53 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 21:25:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 21:25:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 21:25:54 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 21:25:54 | [INFO]    | Shard 0 : Received READY
+2022-03-26 21:34:55 | [INFO]    | Discordia 2.9.2
+2022-03-26 21:34:55 | [INFO]    | Connecting to Discord...
+2022-03-26 21:34:55 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 21:34:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 21:34:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 21:34:55 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 21:34:55 | [INFO]    | Shard 0 : Received READY
+2022-03-26 21:43:43 | [INFO]    | Discordia 2.9.2
+2022-03-26 21:43:43 | [INFO]    | Connecting to Discord...
+2022-03-26 21:43:44 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 21:43:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 21:43:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 21:43:44 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 21:43:44 | [INFO]    | Shard 0 : Received READY
+2022-03-26 21:46:06 | [INFO]    | Discordia 2.9.2
+2022-03-26 21:46:06 | [INFO]    | Connecting to Discord...
+2022-03-26 21:46:07 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 21:46:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 21:46:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 21:46:07 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 21:46:07 | [INFO]    | Shard 0 : Received READY
+2022-03-26 21:46:56 | [INFO]    | Discordia 2.9.2
+2022-03-26 21:46:56 | [INFO]    | Connecting to Discord...
+2022-03-26 21:46:57 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-26 21:46:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-26 21:46:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-26 21:46:57 | [INFO]    | Shard 0 : Received HELLO
+2022-03-26 21:46:57 | [INFO]    | Shard 0 : Received READY
+2022-03-27 10:18:24 | [INFO]    | Discordia 2.9.2
+2022-03-27 10:18:24 | [INFO]    | Connecting to Discord...
+2022-03-27 10:18:24 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-27 10:18:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-27 10:18:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 10:18:25 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 10:18:25 | [INFO]    | Shard 0 : Received READY
+2022-03-27 10:19:20 | [INFO]    | Discordia 2.9.2
+2022-03-27 10:19:20 | [INFO]    | Connecting to Discord...
+2022-03-27 10:19:20 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-27 10:19:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-27 10:19:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 10:19:21 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 10:19:21 | [INFO]    | Shard 0 : Received READY
+2022-03-27 10:21:53 | [INFO]    | Discordia 2.9.2
+2022-03-27 10:21:53 | [INFO]    | Connecting to Discord...
+2022-03-27 10:21:53 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-27 10:21:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-27 10:21:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 10:21:54 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 10:21:54 | [INFO]    | Shard 0 : Received READY
+2022-03-27 10:22:36 | [INFO]    | Discordia 2.9.2
+2022-03-27 10:22:36 | [INFO]    | Connecting to Discord...
+2022-03-27 10:22:36 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-27 10:22:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-27 10:22:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 10:22:36 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 10:22:37 | [INFO]    | Shard 0 : Received READY
+2022-03-27 10:25:10 | [INFO]    | Discordia 2.9.2
+2022-03-27 10:25:10 | [INFO]    | Connecting to Discord...
+2022-03-27 10:25:10 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-27 10:25:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-27 10:25:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 10:25:11 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 10:25:11 | [INFO]    | Shard 0 : Received READY
+2022-03-27 10:26:51 | [INFO]    | Discordia 2.9.2
+2022-03-27 10:26:51 | [INFO]    | Connecting to Discord...
+2022-03-27 10:26:52 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-27 10:26:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-27 10:26:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 10:26:52 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 10:26:52 | [INFO]    | Shard 0 : Received READY
+2022-03-27 10:35:29 | [INFO]    | Discordia 2.9.2
+2022-03-27 10:35:29 | [INFO]    | Connecting to Discord...
+2022-03-27 10:35:29 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-27 10:35:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-27 10:35:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 10:35:30 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 10:35:30 | [INFO]    | Shard 0 : Received READY
+2022-03-27 10:37:32 | [INFO]    | Discordia 2.9.2
+2022-03-27 10:37:32 | [INFO]    | Connecting to Discord...
+2022-03-27 10:37:32 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-27 10:37:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-27 10:37:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 10:37:32 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 10:37:32 | [INFO]    | Shard 0 : Received READY
+2022-03-27 10:39:14 | [INFO]    | Discordia 2.9.2
+2022-03-27 10:39:14 | [INFO]    | Connecting to Discord...
+2022-03-27 10:39:14 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-27 10:39:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-27 10:39:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 10:39:15 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 10:39:15 | [INFO]    | Shard 0 : Received READY
+2022-03-27 10:39:41 | [INFO]    | Discordia 2.9.2
+2022-03-27 10:39:41 | [INFO]    | Connecting to Discord...
+2022-03-27 10:39:41 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-27 10:39:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-27 10:39:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 10:39:41 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 10:39:42 | [INFO]    | Shard 0 : Received READY
+2022-03-27 11:03:56 | [INFO]    | Discordia 2.9.2
+2022-03-27 11:03:56 | [INFO]    | Connecting to Discord...
+2022-03-27 11:03:56 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-27 11:03:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-27 11:03:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 11:03:56 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 11:03:56 | [INFO]    | Shard 0 : Received READY
+2022-03-27 14:10:56 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-03-27 14:10:56 | [INFO]    | Shard 0 : Disconnected
+2022-03-27 14:10:56 | [INFO]    | Shard 0 : Reconnecting...
+2022-03-27 14:10:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 14:10:57 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 14:10:57 | [INFO]    | Shard 0 : Received RESUMED
+2022-03-27 16:41:08 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-03-27 16:41:08 | [INFO]    | Shard 0 : Disconnected
+2022-03-27 16:41:08 | [INFO]    | Shard 0 : Reconnecting...
+2022-03-27 16:41:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 16:41:08 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 16:41:08 | [INFO]    | Shard 0 : Received RESUMED
+2022-03-27 20:25:38 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-03-27 20:25:38 | [INFO]    | Shard 0 : Disconnected
+2022-03-27 20:25:38 | [INFO]    | Shard 0 : Reconnecting...
+2022-03-27 20:25:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-27 20:25:38 | [INFO]    | Shard 0 : Received HELLO
+2022-03-27 20:25:38 | [INFO]    | Shard 0 : Received RESUMED
+2022-03-28 13:33:10 | [INFO]    | Discordia 2.9.2
+2022-03-28 13:33:10 | [INFO]    | Connecting to Discord...
+2022-03-28 13:33:10 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-28 13:33:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-28 13:33:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-28 13:33:11 | [INFO]    | Shard 0 : Received HELLO
+2022-03-28 13:33:11 | [INFO]    | Shard 0 : Received READY
+2022-03-28 13:33:19 | [INFO]    | Shard 0 : Disconnected
+2022-03-28 13:33:19 | [INFO]    | Shard 0 : Reconnecting after 918 ms...
+2022-03-28 13:33:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-28 13:33:20 | [INFO]    | Shard 0 : Received HELLO
+2022-03-28 13:33:20 | [INFO]    | Shard 0 : Received RESUMED
+2022-03-28 14:17:47 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-03-28 14:17:47 | [INFO]    | Shard 0 : Disconnected
+2022-03-28 14:17:47 | [INFO]    | Shard 0 : Reconnecting...
+2022-03-28 14:17:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-28 14:17:47 | [INFO]    | Shard 0 : Received HELLO
+2022-03-28 14:17:47 | [INFO]    | Shard 0 : Received RESUMED
+2022-03-28 15:55:40 | [WARNING] | Shard 0 : 1000 - Connection closed
+2022-03-28 15:55:40 | [INFO]    | Shard 0 : Disconnected
+2022-03-28 15:55:40 | [INFO]    | Shard 0 : Reconnecting after 1002 ms...
+2022-03-28 15:56:02 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (ETIMEDOUT)
+2022-03-28 15:56:02 | [INFO]    | Shard 0 : Reconnecting after 1852 ms...
+2022-03-28 15:56:24 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (ETIMEDOUT)
+2022-03-28 15:56:24 | [INFO]    | Shard 0 : Reconnecting after 3846 ms...
+2022-03-28 15:56:49 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (ETIMEDOUT)
+2022-03-28 15:56:49 | [INFO]    | Shard 0 : Reconnecting after 7578 ms...
+2022-03-28 15:56:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-28 15:56:57 | [INFO]    | Shard 0 : Received HELLO
+2022-03-28 15:56:57 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2022-03-28 15:56:59 | [INFO]    | Shard 0 : Received READY
+2022-03-28 18:01:57 | [INFO]    | Shard 0 : Disconnected
+2022-03-28 18:01:57 | [INFO]    | Shard 0 : Reconnecting after 912 ms...
+2022-03-28 18:01:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-28 18:01:58 | [INFO]    | Shard 0 : Received HELLO
+2022-03-28 18:01:58 | [INFO]    | Shard 0 : Received RESUMED
+2022-03-28 19:42:05 | [WARNING] | Shard 0 : 4003 - Not authenticated.
+2022-03-28 19:42:05 | [INFO]    | Shard 0 : Disconnected
+2022-03-28 19:42:05 | [INFO]    | Shard 0 : Reconnecting after 1051 ms...
+2022-03-28 19:42:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-28 19:42:06 | [INFO]    | Shard 0 : Received HELLO
+2022-03-28 19:42:07 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2022-03-28 19:42:08 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-03-28 19:42:08 | [INFO]    | Shard 0 : Disconnected
+2022-03-28 19:42:08 | [INFO]    | Shard 0 : Reconnecting after 1808 ms...
+2022-03-28 19:42:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-28 19:42:10 | [INFO]    | Shard 0 : Received HELLO
+2022-03-28 19:42:16 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-03-28 19:42:16 | [INFO]    | Shard 0 : Disconnected
+2022-03-28 19:42:16 | [INFO]    | Shard 0 : Reconnecting after 4337 ms...
+2022-03-28 19:42:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-28 19:42:20 | [INFO]    | Shard 0 : Received HELLO
+2022-03-28 19:42:23 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-03-28 19:42:23 | [INFO]    | Shard 0 : Disconnected
+2022-03-28 19:42:23 | [INFO]    | Shard 0 : Reconnecting after 7588 ms...
+2022-03-28 19:42:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-28 19:42:31 | [INFO]    | Shard 0 : Received HELLO
+2022-03-28 19:42:31 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-03-28 19:42:31 | [INFO]    | Shard 0 : Disconnected
+2022-03-28 19:42:31 | [INFO]    | Shard 0 : Reconnecting after 15145 ms...
+2022-03-28 19:42:54 | [INFO]    | Discordia 2.9.2
+2022-03-28 19:42:54 | [INFO]    | Connecting to Discord...
+2022-03-28 19:42:54 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-03-28 19:42:54 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-03-28 19:46:33 | [INFO]    | Discordia 2.9.2
+2022-03-28 19:46:33 | [INFO]    | Connecting to Discord...
+2022-03-28 19:46:33 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-03-28 19:46:33 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-03-28 19:48:57 | [INFO]    | Discordia 2.9.2
+2022-03-28 19:48:57 | [INFO]    | Connecting to Discord...
+2022-03-28 19:48:58 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-03-28 19:48:58 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-03-28 19:50:32 | [INFO]    | Discordia 2.9.2
+2022-03-28 19:50:32 | [INFO]    | Connecting to Discord...
+2022-03-28 19:50:32 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-28 19:50:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-28 19:50:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-28 19:50:33 | [INFO]    | Shard 0 : Received HELLO
+2022-03-28 19:50:33 | [INFO]    | Shard 0 : Received READY
+2022-03-29 16:12:34 | [INFO]    | Discordia 2.9.2
+2022-03-29 16:12:34 | [INFO]    | Connecting to Discord...
+2022-03-29 16:12:34 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-29 16:12:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-29 16:12:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-29 16:12:35 | [INFO]    | Shard 0 : Received HELLO
+2022-03-29 16:12:35 | [INFO]    | Shard 0 : Received READY
+2022-03-29 16:32:20 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-03-29 16:32:20 | [INFO]    | Shard 0 : Disconnected
+2022-03-29 16:32:20 | [INFO]    | Shard 0 : Reconnecting...
+2022-03-29 16:32:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-29 16:32:20 | [INFO]    | Shard 0 : Received HELLO
+2022-03-29 16:32:20 | [INFO]    | Shard 0 : Received RESUMED
+2022-03-29 18:13:40 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-03-29 18:58:26 | [INFO]    | Discordia 2.9.2
+2022-03-29 18:58:26 | [INFO]    | Connecting to Discord...
+2022-03-29 18:58:27 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-03-29 18:58:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-03-29 18:58:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-29 18:58:27 | [INFO]    | Shard 0 : Received HELLO
+2022-03-29 18:58:27 | [INFO]    | Shard 0 : Received READY
+2022-03-29 21:56:20 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-03-29 21:56:20 | [INFO]    | Shard 0 : Disconnected
+2022-03-29 21:56:20 | [INFO]    | Shard 0 : Reconnecting...
+2022-03-29 21:56:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-03-29 21:56:20 | [INFO]    | Shard 0 : Received HELLO
+2022-03-29 21:56:20 | [INFO]    | Shard 0 : Received RESUMED
+2022-04-04 17:54:51 | [INFO]    | Discordia 2.9.2
+2022-04-04 17:54:51 | [INFO]    | Connecting to Discord...
+2022-04-04 17:54:51 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-04-04 17:54:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-04 17:54:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-04 17:54:52 | [INFO]    | Shard 0 : Received HELLO
+2022-04-04 17:54:52 | [INFO]    | Shard 0 : Received READY
+2022-04-04 18:04:18 | [INFO]    | Discordia 2.9.2
+2022-04-04 18:04:18 | [INFO]    | Connecting to Discord...
+2022-04-04 18:04:19 | [INFO]    | Authenticated as TropicCraft BOT#0016
+2022-04-04 18:04:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-04 18:04:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-04 18:04:19 | [INFO]    | Shard 0 : Received HELLO
+2022-04-04 18:04:19 | [INFO]    | Shard 0 : Received READY
